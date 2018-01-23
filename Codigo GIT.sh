@@ -84,7 +84,8 @@ git log > commit.txt
 git help
 git help status    
 
-
+--Confirmar subida...pide credenciales.
+git push -u origin master
 
 
 
